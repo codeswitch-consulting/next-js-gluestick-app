@@ -2,7 +2,12 @@ This is a [Next.js](https://nextjs.org/) + [Gluestack-ui](https://ui.gluestack.i
 
 ## Getting Started
 
-First, run the development server:
+First, install the template:
+```bash
+yarn create next-app my-app -e https://github.com/codeswitch-consulting/next-js-gluestick-app
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
